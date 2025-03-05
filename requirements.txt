@@ -1,0 +1,7 @@
+pyspark
+requests
+tqdm
+geopy
+urllib3
+jupyter
+
