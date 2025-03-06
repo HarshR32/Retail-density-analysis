@@ -52,19 +52,5 @@ coverage.xml
 .env
 .DS_Store
 
-# Data files
-*.csv
-*.tsv
-*.xlsx
-*.xls
-*.db
-*.sqlite
-*.sqlite3
-*.json
-*.parquet
-*.feather
-*.pkl
-*.pickle
-
 # Documents
 Documents
